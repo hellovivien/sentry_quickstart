@@ -1,7 +1,7 @@
 # Sentry
 
 Sentry surveille l'execution de votre application et enregistre les **erreurs**, les **exceptions** et les 
-métrics liées à la **performance**. Il est compatible avec la majorité des languages et framework existants.
+métriques liées à la **performance**. Il est compatible avec la majorité des languages et framework existants.
 
 ![](https://i.imgur.com/qZzal33.png)
 
@@ -151,7 +151,7 @@ Settings > [organisation] > [project name] > Performance
 
 La métrique la plus pertinente est l'**Apdex**.
 
-C'est un standard de l'industrie utilisé pour mesurer la satisfaction basé sur le temps de réponse de l'application. L'Apdex fourni un ratio Satisfaisant/Tolérable/Frustration du nombre de requêtes pour un endpoint particulier.
+C'est un standard de l'industrie utilisé pour mesurer la satisfaction basé sur le temps de réponse de l'application. L'Apdex se base sur un ratio Satisfaisant/Tolérable/Frustration du nombre de requêtes pour un endpoint particulier.
 
 soit T le Threeshold
 
